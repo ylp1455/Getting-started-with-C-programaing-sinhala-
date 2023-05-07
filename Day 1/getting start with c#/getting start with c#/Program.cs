@@ -50,6 +50,19 @@ namespace getting_start_with_c_
             Console.WriteLine("1 2 3 4 5");
             Console.WriteLine("");
 
+            /// how to comment in C#
+            
+            // this is a single line comment
+
+            ///This 
+            ///is 
+            ///multiline 
+            ///comment
+            
+
+
+
+
             Console.ReadLine();
 
         }
