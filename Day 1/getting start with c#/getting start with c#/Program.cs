@@ -56,6 +56,23 @@ namespace getting_start_with_c_
             int ans = num1 + num2;
             Console.WriteLine(num1 + " + " + num2 + " = " + ans);
 
+            // Write a C# program to accept two numbers from from user and display the answer as the the out put .
+            string num1;
+            string num2; 
+            int no1; 
+            int no2;
+            Console.WriteLine("Enter first number ");
+            num1 = Console.ReadLine();
+            no1 = Convert.num1 toint32(num1);
+
+            Console.WriteLine("Enter scond number ");
+            num1 = Console.ReadLine();
+            no2 = Convert .ToInt32 (num2);
+
+            ans = num1 + no2;
+
+            Console.WriteLine("Addition is = ", ans);
+
             Console.ReadLine();
         }
     }
