@@ -1,0 +1,8 @@
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 1\getting start with c#\getting start with c#\bin\Debug\getting start with c#.exe.config
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 1\getting start with c#\getting start with c#\bin\Debug\getting start with c#.exe
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 1\getting start with c#\getting start with c#\bin\Debug\getting start with c#.pdb
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 1\getting start with c#\getting start with c#\obj\Debug\getting start with c#.csproj.AssemblyReference.cache
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 1\getting start with c#\getting start with c#\obj\Debug\getting start with c#.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 1\getting start with c#\getting start with c#\obj\Debug\getting start with c#.csproj.CoreCompileInputs.cache
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 1\getting start with c#\getting start with c#\obj\Debug\getting start with c#.exe
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 1\getting start with c#\getting start with c#\obj\Debug\getting start with c#.pdb
