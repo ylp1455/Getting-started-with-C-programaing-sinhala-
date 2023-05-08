@@ -1,0 +1,8 @@
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 2\Day 2\bin\Debug\Day 2.exe.config
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 2\Day 2\bin\Debug\Day 2.exe
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 2\Day 2\bin\Debug\Day 2.pdb
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 2\Day 2\obj\Debug\Day 2.csproj.AssemblyReference.cache
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 2\Day 2\obj\Debug\Day 2.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 2\Day 2\obj\Debug\Day 2.csproj.CoreCompileInputs.cache
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 2\Day 2\obj\Debug\Day 2.exe
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 2\Day 2\obj\Debug\Day 2.pdb
