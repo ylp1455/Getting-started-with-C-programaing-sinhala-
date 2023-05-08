@@ -1,0 +1,11 @@
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 2 question 02\Day 2 question 02\bin\Debug\Day 2 question 02.exe.config
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 2 question 02\Day 2 question 02\bin\Debug\Day 2 question 02.exe
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 2 question 02\Day 2 question 02\bin\Debug\Day 2 question 02.pdb
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 2 question 02\Day 2 question 02\obj\Debug\Day 2 question 02.csproj.AssemblyReference.cache
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 2 question 02\Day 2 question 02\obj\Debug\Day 2 question 02.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 2 question 02\Day 2 question 02\obj\Debug\Day_2_question_02.Form1.resources
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 2 question 02\Day 2 question 02\obj\Debug\Day_2_question_02.Properties.Resources.resources
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 2 question 02\Day 2 question 02\obj\Debug\Day 2 question 02.csproj.GenerateResource.cache
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 2 question 02\Day 2 question 02\obj\Debug\Day 2 question 02.csproj.CoreCompileInputs.cache
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 2 question 02\Day 2 question 02\obj\Debug\Day 2 question 02.exe
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 2 question 02\Day 2 question 02\obj\Debug\Day 2 question 02.pdb
