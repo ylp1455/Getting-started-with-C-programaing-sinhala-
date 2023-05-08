@@ -20,7 +20,7 @@ namespace Day_2
             double rate;
             double grossPay;
 
-            Console.WriteLine("Enter the hours wroked");
+            Console.WriteLine("Enter the hours worked");
             hours = double.Parse(Console.ReadLine());
 
             Console.WriteLine("Enter the hourly rate");
@@ -32,7 +32,7 @@ namespace Day_2
             */
 
 
-
+            /*
 
 
             ///Write a C# program that accept monthly rental of a house , average electricity , telephone 
@@ -59,6 +59,31 @@ namespace Day_2
             expens = avg * 12 + (12*houseRent);
 
             Console.WriteLine("Expenditure for one year is : " + expens);
+            */
+
+
+
+            /*
+             
+                * Make an integer Variable Called Number
+                * Assign some values to the variables
+                * If the value is greater than 50 , " output number is greater than 50"
+             
+             */
+
+
+            int Number;
+
+            Number = 200;
+
+            if (Number > 50)
+            { Console.WriteLine("The number is greater than 50"); }           
+            
+            else { Console.WriteLine("The number is less than 50"); }
+
+
+
+
 
             Console.ReadLine();
         }
