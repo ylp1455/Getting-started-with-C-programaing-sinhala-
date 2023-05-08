@@ -38,7 +38,12 @@ namespace Day_2
             ///Write a C# program that accept monthly rental of a house , average electricity , telephone 
             ///and water bill for a month calculate the expenditure fo one year
 
-            double waterBill, electricityBill, tlephoneBill , avg , expens;
+            double houseRent ,waterBill, electricityBill, tlephoneBill , avg , expens;
+
+            Console.WriteLine("Enter the amount of house rent ");
+            houseRent = double.Parse(Console.ReadLine());
+
+
 
             Console.WriteLine("Enter the amount of water bill ");
             waterBill = double.Parse(Console.ReadLine());
@@ -49,9 +54,9 @@ namespace Day_2
             Console.WriteLine("Enter the amount of water bill ");
             tlephoneBill = double.Parse(Console.ReadLine());
 
-            avg = (tlephoneBill + electricityBill + waterBill)/3;
+            avg = (tlephoneBill + electricityBill + waterBill);
 
-            expens = avg * 12;
+            expens = avg * 12 + (12*houseRent);
 
             Console.WriteLine("Expenditure for one year is : " + expens);
 
