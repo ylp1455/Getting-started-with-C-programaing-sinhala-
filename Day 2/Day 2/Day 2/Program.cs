@@ -71,7 +71,7 @@ namespace Day_2
              
              */
 
-
+            /*
             int Number;
 
             Number = 200;
@@ -81,9 +81,24 @@ namespace Day_2
             
             else { Console.WriteLine("The number is less than 50"); }
 
+            */
 
+            /// Make a variable called marks 
+            /// Enter soe value to the marks
+            /// Accroding to vaue ogive the results
+            ///     less than 50 - bad
+            ///     equall to 50 - ok
+            ///     greater than 50 - execlent
 
+            double marks;
 
+            Console.WriteLine("Eneter the makrs of student");
+            
+            marks = double.Parse(Console.ReadLine());
+
+            if (marks < 50) { Console.WriteLine("Bad"); }
+            else if (marks == 50) { Console.WriteLine("Ok"); }
+            else { Console.WriteLine("Excelent"); }
 
             Console.ReadLine();
         }
