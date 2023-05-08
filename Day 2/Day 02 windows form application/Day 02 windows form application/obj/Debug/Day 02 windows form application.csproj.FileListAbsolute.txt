@@ -1,0 +1,11 @@
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 02 windows form application\Day 02 windows form application\bin\Debug\Day 02 windows form application.exe.config
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 02 windows form application\Day 02 windows form application\bin\Debug\Day 02 windows form application.exe
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 02 windows form application\Day 02 windows form application\bin\Debug\Day 02 windows form application.pdb
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 02 windows form application\Day 02 windows form application\obj\Debug\Day 02 windows form application.csproj.AssemblyReference.cache
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 02 windows form application\Day 02 windows form application\obj\Debug\Day 02 windows form application.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 02 windows form application\Day 02 windows form application\obj\Debug\Day_02_windows_form_application.Form1.resources
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 02 windows form application\Day 02 windows form application\obj\Debug\Day_02_windows_form_application.Properties.Resources.resources
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 02 windows form application\Day 02 windows form application\obj\Debug\Day 02 windows form application.csproj.GenerateResource.cache
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 02 windows form application\Day 02 windows form application\obj\Debug\Day 02 windows form application.csproj.CoreCompileInputs.cache
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 02 windows form application\Day 02 windows form application\obj\Debug\Day 02 windows form application.exe
+E:\Projects\Getting-started-with-C-programaing-sinhala-\Day 2\Day 02 windows form application\Day 02 windows form application\obj\Debug\Day 02 windows form application.pdb
