@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Day_2_question_04
@@ -22,42 +15,38 @@ namespace Day_2_question_04
             if (comboBox1.Text == "Farenhiet to Celcius")
             {
                 double f = double.Parse(textBox1.Text);
-                double c;
-
-                c = (f - 32) * 5 / 9;
-
+                double c = (f - 32) * 5 / 9;
                 textBox2.Text = c.ToString();
-
-
-                
-
             }
             else if (comboBox1.Text == "Celcius to Farenhiet")
             {
-                if (comboBox1.Text == "Farenhiet to Celcius")
-                {
-                    double f = double.Parse(textBox1.Text);
-                    double c;
-
-                    c = (f - 32) * 5 / 9;
-
-                    textBox2.Text = c.ToString();
-                }
-                else if (comboBox1.Text == "Celcius to Farenhiet")
-                {
-                    double c = double.Parse(textBox1.Text);
-                    double f;
-                    f = (c * 9 / 5) + 32;
-
-                    textBox2.Text = f.ToString();
-                }
-                else
-                {
-                    textBox2.Text = "Invalid choice";
-                }
+                double c = double.Parse(textBox1.Text);
+                double f = (c * 9 / 5) + 32;
+                textBox2.Text = f.ToString();
             }
-            else { textBox2.Text = "Invalid choice"; }
+            else
+            {
+                textBox2.Text = "Invalid choice";
+            }
+        }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if (radioButton1.Checked == true)
+            {
+                double f = double.Parse(textBox4.Text);
+                double c = (f - 32) * 5 / 9;
+                textBox3.Text = c.ToString();
+            }
+            else if (radioButton2.Checked == true) {
+                double c = double.Parse(textBox4.Text);
+                double f = (c * 9 / 5) + 32;
+                textBox3.Text = f.ToString();
+            }
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
 
         }
     }
